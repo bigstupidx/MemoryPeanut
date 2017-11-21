@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0816f8a62108af54291a972744d356c7
+timeCreated: 1505907610
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: greenbeans
+  fontNames:
+  - greenbeans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

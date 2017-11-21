@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5647190b853888e4f9b34d7fef4a3fd1
+timeCreated: 1505708069
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ADAM.CG PRO
+  fontNames:
+  - ADAM.CG PRO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
